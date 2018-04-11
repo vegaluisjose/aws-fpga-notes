@@ -1,4 +1,4 @@
-# Amazon F1 instance walk-through tutorial
+# Amazon F1 instance walk through tutorial
 
 1. [Create an AWS account](create_aws_account.md)
 2. [Generate SSH keys](generate_ssh_keys.md)
