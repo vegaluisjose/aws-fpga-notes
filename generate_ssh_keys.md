@@ -1,4 +1,20 @@
-# Prepare ssh keys to access the [Amazon EC2 F1](https://aws.amazon.com/ec2/instance-types/f1/)
+<table style="width:100%">
+  <tr>
+    <th width="100%" colspan="5"><h2>Table of contents (steps)</h2></th>
+  </tr>
+  <tr>
+    <td width="10%" align="center"><a href="create_aws_account.md">1</a></td>
+    <td width="10%" align="center"><a href="generate_ssh_keys.md">2</a></td>
+    <td width="10%" align="center"><a href="create_s3_credential.md">3</a></td>	  
+    <td width="10%" align="center"><a href="increase_instance_limit.md">4</a></td>
+    <td width="10%" align="center"><a href="create_ami_instance.md">5</a></td>
+    <td width="10%" align="center"><a href="configure_s3.md">6</a></td>	  	  
+  </tr>
+</table>
+	
+---------------------------------------
+
+# 2. Prepare SSH keys to access the [Amazon EC2 F1](https://aws.amazon.com/ec2/instance-types/f1/)
 
 SSH keys are needed in order to connect to the instance. You could generate them locally in your computer or in the EC2 management console.
 
