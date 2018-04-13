@@ -9,7 +9,7 @@
 7. [Setup development environment](setup_development_environment.md)
 8. Simulate the design
 9. Build the hardware design
-10. Generate the AFI
+10. [Generate the AFI](generate_afi.md)
 11. Compile the runtime of the design
 12. Bookkeping the AFI
 
