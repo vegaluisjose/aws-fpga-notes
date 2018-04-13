@@ -12,3 +12,5 @@
 10. Generate the AFI
 11. Compile the runtime of the design
 12. Bookkeping the AFI
+
+After you finish this walk through tutorial, you will normally iterate step 8 and step 12
