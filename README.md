@@ -10,6 +10,7 @@
 8. Simulate the design
 9. Build the hardware design
 10. [Generate the AFI](generate_afi.md)
+11. [Program FPGA](program_fpga.md)
 11. Compile the runtime of the design
 12. Bookkeping the AFI
 
