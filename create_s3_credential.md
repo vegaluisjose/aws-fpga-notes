@@ -21,7 +21,7 @@
     <td><a href="configure_s3.md">6. Configure S3 bucket</a></td>
   </tr>
   <tr>
-    <td><a href="setup_development_environment..md">7. Setup development environment</a></td>
+    <td><a href="setup_development_environment.md">7. Setup development environment</a></td>
   </tr>
   <tr>
     <td><a href="simulate_design.md">8. Simulate the design</a></td>
