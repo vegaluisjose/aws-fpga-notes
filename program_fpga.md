@@ -1,4 +1,4 @@
-# Program Amazon F1 FPGA
+# Program the FPGA
 
 1. Change to an FPGA instance **f1.2xlarge** or **f1.16xlarge**, [follow these steps](change_instance_type.md)
 1. Connect the instance via ssh

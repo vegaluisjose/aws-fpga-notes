@@ -9,19 +9,40 @@
     <td><a href="generate_ssh_keys.md">2. Generate SSH keys</a></td>
   </tr>
   <tr>
-    <td><a href="create_s3_credential.md">3. </a></td>	  
+    <td><a href="create_s3_credential.md">3. Create S3 credential</a></td>
   </tr>
   <tr>
-    <td><a href="increase_instance_limit.md">4. </a></td>
+    <td><a href="increase_instance_limit.md">4. Increase instance limit</a></td>
   </tr>
   <tr>
-    <td><a href="create_ami_instance.md">5. </a></td>
+    <td><a href="create_ami_instance.md">5. Create an AMI instance</a></td>
   </tr>
   <tr>
-    <td><a href="configure_s3.md">6. </a></td>	  	  
+    <td><a href="configure_s3.md">6. Configure S3 bucket</a></td>
+  </tr>
+  <tr>
+    <td><a href="setup_development_environment.md.md">7. Setup development environment</a></td>
+  </tr>
+  <tr>
+    <td><a href="simulate_design.md">8. Simulate the design</a></td>
+  </tr>
+  <tr>
+    <td><a href="build_hardware.md">9. Build the hardware design</a></td>
+  </tr>
+  <tr>
+    <td><a href="generate_afi.md">10. Generate the AFI</a></td>
+  </tr>
+  <tr>
+    <td><a href="program_fpga.md">11. Program the FPGA</a></td>
+  </tr>
+  <tr>
+    <td><a href="compile_runtime.md">12. Compile the runtime of the design</a></td>
+  </tr>
+  <tr>
+    <td><a href="bookkeeping_afi.md">13. Bookkeping the AFI</a></td>
   </tr>
 </table>
-	
+
 ---------------------------------------
 
 # 1. Create an AWS account

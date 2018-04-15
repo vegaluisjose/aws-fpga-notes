@@ -13,7 +13,7 @@ Additionally, the FPGA AMI version used is `1.3.4` and the git-tag of `aws-fpga`
 1. [Simulate the design](simulate_design.md)
 1. [Build the hardware design](build_hardware.md)
 1. [Generate the AFI](generate_afi.md)
-1. [Program FPGA](program_fpga.md)
+1. [Program the FPGA](program_fpga.md)
 1. [Compile the runtime of the design](compile_runtime.md)
 1. [Bookkeping the AFI](bookkeeping_afi.md)
 
