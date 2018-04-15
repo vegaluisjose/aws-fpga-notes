@@ -6,11 +6,11 @@ You need to request and be granted access to F1 instances before you can start u
 These steps were partially taken from [here](https://github.com/Xilinx/SDAccel_Examples/wiki/Prerequisites-for-working-with-SDAccel-on-AWS-F1).
 
 1. Open the Service Limit Increase [form](http://aws.amazon.com/contact-us/ec2-request)
-2. Submit a **Service Limit Increase** for **EC2 Instances**
-3. Select the region where you want to access F1 instances: US East (N.Virginia), US West (Oregon) or EU (Ireland)
-4. Select the instance type, either **f1.2xlarge** or **f1.16xlarge**
-5. Set the **New limit value** to **1** or more
-6. Fill the rest of the form as appropriate and click **Submit**
+1. Submit a **Service Limit Increase** for **EC2 Instances**
+1. Select the region where you want to access F1 instances: US East (N.Virginia), US West (Oregon) or EU (Ireland)
+1. Select the instance type, either **f1.2xlarge** or **f1.16xlarge**
+1. Set the **New limit value** to **1** or more
+1. Fill the rest of the form as appropriate and click **Submit**
 
 
 **Requests are typically processed by AWS in 24 to 48 hours.**
