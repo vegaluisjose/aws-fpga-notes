@@ -6,7 +6,7 @@ Additionally, the FPGA AMI version used is `1.3.4` and the git-tag of `aws-fpga`
 1. [Create an AWS account](create_aws_account.md)
 1. [Generate SSH keys](generate_ssh_keys.md)
 1. [Create S3 credential](create_s3_credential.md)
-1. [Increase instance limit](increase_instance_limit.md)
+1. [Request access to Amazon EC2 F1 instances](request_access_f1.md)
 1. [Create an AMI instance](create_ami_instance.md)
 1. [Configure S3 bucket](configure_s3.md)
 1. [Setup development environment](setup_development_environment.md)
