@@ -17,4 +17,4 @@ Additionally, the FPGA AMI version used is `1.3.4` and the git-tag of `aws-fpga`
 12. [Compile the runtime of the design](compile_runtime.md)
 13. [Bookkeping the AFI](bookkeeping_afi.md)
 
-After you finish this walk through tutorial, you will normally iterate step 8 and step 12
+After you finish this walk through tutorial, you will normally iterate step 8 and step 13
