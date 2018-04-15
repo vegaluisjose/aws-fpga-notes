@@ -12,7 +12,7 @@
     <td><a href="create_s3_credential.md">3. Create S3 credential</a></td>
   </tr>
   <tr>
-    <td><a href="increase_instance_limit.md">4. Increase instance limit</a></td>
+    <td><a href="request_access_f1.md">4. Request access to Amazon EC2 F1 instances</a></td>
   </tr>
   <tr>
     <td><a href="create_ami_instance.md">5. Create an AMI instance</a></td>
