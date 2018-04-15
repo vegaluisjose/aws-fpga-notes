@@ -1,6 +1,6 @@
 # Compile the runtime of the design
 
-1. Go to the **aws-fpga** repository `cd aws-fpga`
+1. Go to the **aws-fpga** folder `cd <the-path-of-aws-fpga-folder>`
 2. Setup the environment `source sdk_setup.sh`
 3. Go to the hello-world example folder `cd hdk/cl/examples/cl_hello_world`
 4. Export environment variable for the design `export CL_DIR=$PWD`
