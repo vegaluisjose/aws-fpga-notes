@@ -3,7 +3,10 @@
 The Amazon FPGA Image or AFI is what it is used to program the FPGA or deploy the hardware
 
 1. Make sure the final design (tar-file) and log file have been copied to the S3 bucket
-2. Generate the AFI by running the following:
+1. Create a log file for monitoring AFI generation `touch log-file.log`
+1. Copy log file to the s3 bucket `aws s3 cp log-file.log s3://<your-s3-bucket>`
+1. Remove local log file `rm log-file.log`
+1. Generate the AFI by running the following:
 
 ```
 aws ec2 create-fpga-image --name <afi-name> \
