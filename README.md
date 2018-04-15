@@ -10,7 +10,7 @@ Additionally, the FPGA AMI version used is `1.3.4` and the git-tag of `aws-fpga`
 5. [Create an AMI instance](create_ami_instance.md)
 6. [Configure S3 bucket](configure_s3.md)
 7. [Setup development environment](setup_development_environment.md)
-8. Simulate the design
+8. [Simulate the design](simulate_design.md)
 9. Build the hardware design
 10. [Generate the AFI](generate_afi.md)
 11. [Program FPGA](program_fpga.md)
