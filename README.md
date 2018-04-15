@@ -1,6 +1,6 @@
 # Amazon F1 instance walk through tutorial
 
-This tutorial uses the hello-world design provided by aws-fpga but could be extended to other designs.
+This tutorial uses the hello-world (RTL) design provided by aws-fpga but could be extended to other designs.
 Additionally, the FPGA AMI version used is `1.3.4` and the git-tag of `aws-fpga` is `v1.3.6`.
 
 1. [Create an AWS account](create_aws_account.md)
