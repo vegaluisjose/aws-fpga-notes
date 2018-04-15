@@ -11,7 +11,7 @@ Additionally, the FPGA AMI version used is `1.3.4` and the git-tag of `aws-fpga`
 6. [Configure S3 bucket](configure_s3.md)
 7. [Setup development environment](setup_development_environment.md)
 8. [Simulate the design](simulate_design.md)
-9. Build the hardware design
+9. [Build the hardware design](build_hardware.md)
 10. [Generate the AFI](generate_afi.md)
 11. [Program FPGA](program_fpga.md)
 12. [Compile the runtime of the design](compile_runtime.md)
