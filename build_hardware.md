@@ -56,5 +56,5 @@
 1. Go to the hardware scripts folder `cd build/scripts`
 1. Run `./aws_build_dcp_from_cl.sh`
 1. Run `tail -f last_log` to monitor progress and exit anytime by running `ctrl+c`
-1. Wait until Xilinx Vivado finishes building the design and the final design (.tar) will be located at `$CL_DIR/build/scripts/to_aws/*.Developer_CL.tar`
+1. Wait until Xilinx Vivado finishes building the design and the final design (.tar) will be located at `$CL_DIR/build/checkpoints/to_aws/*.Developer_CL.tar`
 1. Copy the final tar-file to the s3 bucket `aws s3 cp $CL_DIR/build/checkpoints/to_aws/*.Developer_CL.tar s3://<your-s3-bucket>`
