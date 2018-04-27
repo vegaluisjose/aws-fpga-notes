@@ -59,7 +59,7 @@ Steps:
 6. Create and add an username
 7. Check the box **Programmatic access** on Access type
 8. Click Next
-9. Create a group name and assign a policy, the policy is **AmazonS3FullAccess**
+9. Create a group name and assign a policy, the policy is **AmazonS3FullAccess** and **awsEC2FullAccess**
 10. After creating the group, check the box for this new group
 11. Click Next
 12. Click **Create User**
