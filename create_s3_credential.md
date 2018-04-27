@@ -53,7 +53,7 @@ Steps:
 
 1. Open the [EC2 Management Console](https://console.aws.amazon.com)
 2. Click on your **Name** on the top bar
-3. Select **My Security Credentials"
+3. Select **My Security Credentials**
 4. Click **Users** from the left bar
 5. Click **Add user** in blue
 6. Create and add an username
